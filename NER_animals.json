@@ -1,0 +1,3384 @@
+[
+  {
+    "review_sentence": "Had an amazing time here with my little girl and her gran on a sunny day in June.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Variety of animals the zoo has is incredible, plenty of places to eat and drink, great selection of play parks for kids, and the staff do an amazing job of keeping the entire zoo immaculate.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We all had a magical day and would highly recommend it for a day out with the family.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It's a little bit hilly (especially on way up to see lions and tigers) but well worth the climb uphill to see such beautiful animals.",
+    "animals": [
+      "lions",
+      "tigers"
+    ],
+    "spans": [
+      [
+        53,
+        58
+      ],
+      [
+        63,
+        69
+      ]
+    ]
+  },
+  {
+    "review_sentence": "The animal talks were highly engaging and would also highly recommend attending these when visiting.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Keep up the brilliant work RZSS.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We visited using the season ticket from our local zoo.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "From arrival we were made very welcome.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Staff took time out to talk to us and tell us about the animals.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We loved the large enclosures that the animals had to roam in and had great views of many during the day.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Thank you everyone for a great day!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We\u2019re members and love the zoo.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "So many different animals too see and easy to get to by the 26 or 31 bus from the Center.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It is a challenging zoo as it\u2019s all on hill so be prepared to get your hike on but it\u2019s all worth it.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Staff are great and always happy to helpWorth a visit we almost go every other month",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Brilliant day out with the Youth Club at the Zoo, we travelled all the way up from County Durham and the zoo staff couldnt have been more helpful from initial contact to collecting the tickets on the day.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The zoo was clean and tidy and the group loved it with the penguins being a firm favourite.",
+    "animals": [
+      "penguins"
+    ],
+    "spans": [
+      [
+        59,
+        67
+      ]
+    ]
+  },
+  {
+    "review_sentence": "We even took advantage of the lunch voucher system and the visit triggered some additional workshops following the visit.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "This was without a doubt one of the best zoo visits we've ever had (helped by the fact we stayed at the Holiday Inn on sight and were offered discounted tickets after 14:00, so therefore the crowds had also dispersed)",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Despite the layout being steep, the views over Edinburgh were superb once at the top, everything was well laid out and easy to find.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Just wish we'd had longer, but I'm sure we will return!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Loved seeing all the different animals especially the penguins and giraffes!",
+    "animals": [
+      "penguins",
+      "giraffes"
+    ],
+    "spans": [
+      [
+        54,
+        62
+      ],
+      [
+        67,
+        75
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Great choice of gifts in gift shop.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Staff all friendly, approachable and helpful.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Despite the rain it was an enjoyable experience!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We were welcomed by informative staff who were very friendly.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The zoo is quite hilly , but the views are amazing.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The animals are well looked after too.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We were lucky enough to get a good look at the sloth who put on a little show!",
+    "animals": [
+      "sloth"
+    ],
+    "spans": [
+      [
+        47,
+        52
+      ]
+    ]
+  },
+  {
+    "review_sentence": "The penguins were great too.",
+    "animals": [
+      "penguins"
+    ],
+    "spans": [
+      [
+        4,
+        12
+      ]
+    ]
+  },
+  {
+    "review_sentence": "There\u2019s lots of cafes and areas to sit down.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The shop is well stocked and reasonably priced.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Had a really good day out at the zoo.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We had two young children there and was good for all.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The giraffes were so amazing they were inside",
+    "animals": [
+      "giraffes"
+    ],
+    "spans": [
+      [
+        4,
+        12
+      ]
+    ]
+  },
+  {
+    "review_sentence": "and you coukd see them so close was an experience I won't be forgetting.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "All the facilities were clean the toilets at the top of the hill were as clean as the ones at the bottom of the hill.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We used the accessibility van to get to top of the hill was amazing so we'll managed and the driver was so pleasant.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Really like there sensory bags that they provide for disabled kids was very well done and such a good idea.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "All the staff were fab and so engaging with the little kids.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Brilliant zoo loved how close you got to the animals would definitely come back.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Great day out would recommend to anyone.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Place was clean and the exhibits were great, shame a few were closed at the time, staff were friendly but didn\u2019t enjoy the food",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The experience was wonderful, the Zoo is massive and there is so much to see!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The Enclosures and the animals look well cared for and there is lots of information to learn about each animal and the natural habitats, the zoo overall is clean and even outside of the enclosures it\u2019s pretty.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I\u2019ve been many times and it doesn\u2019t get boring, one thing I would say it is pricey.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Lovely big zoo, numerous animals .",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Very steep hill to get to top but restaurants and food/drink places on way up.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Big gift shop , staff very pleasant .",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Will definitely be visiting again.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We pre-booked the tickets online.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The queue to get in was massive - queued all the way up the hill!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It did move fairly quickly though and in about 10 minutes we were at the desk.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I initially thought the entrance fee was a bit high (\u00a325), but given how long you can spend here, I now feel it\u2019s good value.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We were there over 4 hours, but could have stayed longer.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "There are so many different animals to see.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "You can pick up a helpful map at the entrance desk that shows you where each animal is located.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The zoo is on a hill, so some of the uphill walks are a little steep.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Most animals seemed to have decent sized enclosures (for a zoo).",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We had a great time at the zoo.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The weather was great so we were able to spend a lot of time there.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The problem was parking.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "When we arrived there was a sign saying the car park was full, we drove off to look for something else, unfortunately there was nothing.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "So we went back and checked to see if there were any spaces but unfortunately we were asked to leave because apparently there were no spaces as the car park attendant said, when we asked why we couldn't park we were told that when there were 20 spaces they would open the car park.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Ridiculous!!!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The car park staff were very rude and aggressive.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I expected to have somewhere to park, especially since I had spent \u00a3150 on tickets.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Due to the lack of spaces I will not be returning to this place",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Animals and weather were great.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Saw a lot, which is lucky as the animals have the freedom to roam between their own private out the way areas, and their public view areas.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Pricing though is now bordering on unaffordable.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Food - we ate at the Gannet.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Chicken wings were overcooked and dry.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Onion rings were just batter with one sliver of onion.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Very disappointing and expensive for what it was.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "If you go, bring your own drinks.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "A 330ml can of Fanta?",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "\u00a32.60.A small juice carton - the little lunchbox ones for kids?",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "\u00a31.95.I expect a markup, but 150+% is laughable.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The giftshop is where it gets full on ridiculous though.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Small stuffed toys ranging from \u00a330.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We saw priced at \u00a368 a 22cm Meerkat.",
+    "animals": [
+      "meerkat"
+    ],
+    "spans": [
+      [
+        28,
+        35
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Had the items been in any way reasonably priced, we'd likely have made a purchase or two.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Can get similar items on Amazon for \u00a37.The other trinkets and souvenirs are equally as ridiculously priced.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I see the zoo reply with explanations of \"oh but the money goes to the animals.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "\"But that doesn't make the price gouging any less off-putting.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We won't be back.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "My partner booked us a Zoo Keeper experience day for my birthday.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I'm not sure what I expected but this exceeded everything I had hoped for!!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Charlie and Megan guided us around most of the zoo and we got hands on experience preparing and feeding around 7 different species (including Rhino, Lion, Chimps, Sloths!).",
+    "animals": [
+      "rhino",
+      "lion",
+      "chimps",
+      "sloths"
+    ],
+    "spans": [
+      [
+        142,
+        147
+      ],
+      [
+        149,
+        153
+      ],
+      [
+        155,
+        161
+      ],
+      [
+        163,
+        169
+      ]
+    ]
+  },
+  {
+    "review_sentence": "They were so thorough and gave us some detailed knowledge on each animal.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The whole day was just incredible and we have both been on a high since.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Charlie and Megan are both an absolute credit to their profession.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Their passion and respect for the animals, and for conservation & education was evident throughout the day.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Thanks again to you both for making it such an unforgettable and special day.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Best birthday gift ever!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We had a lovely visit to Edinburgh Zoo.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The staff were incredibly helpful - since we were visiting with young baby, they offered us a ride in a zoo vehicle to start at the top of the hill.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "This made it much easier to walk down through the zoo with the buggy, and we really appreciated the thoughtful support.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It was a fairly quiet day, but we still got to see some great animals, including lions, giraffes, chimpanzees, and a few others.",
+    "animals": [
+      "lions",
+      "giraffes",
+      "chimpanzees"
+    ],
+    "spans": [
+      [
+        81,
+        86
+      ],
+      [
+        88,
+        96
+      ],
+      [
+        98,
+        109
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Some animals were less active, but that's to be expected on the time of day.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "At the end of the visit, there is a great shopping area near the exit with a wide range of souvenirs and gifts - perfect for picking up something to remember the day.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The zoo is clean, well laid out, and very family friendly.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "we were having a great time and were at the penguins until a manager told us that we had to leave because SOMEONE else and their daughter was being rude to us and gave us the middle finger for absolutely no reason, including with dirty looks and the workers there STILL told us to leave because apparently only their side of the story matters and couldn't even spare 2 seconds to hear what they done to us, although we done nothing.",
+    "animals": [
+      "penguins"
+    ],
+    "spans": [
+      [
+        44,
+        52
+      ]
+    ]
+  },
+  {
+    "review_sentence": "The workers Emily and Ve  told us to leave while being aggressive and not letting any of us speak.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Just because they were full Scottish and we were from somewhere else we had to leave immediately even though they were being extremely rude.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Must be why they wouldnt even let us speak nor  listen to us at all.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I DO NOT recommend coming to Edinburgh zoo, racism is too normalised and the workers there clearly normalised it aswell.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Speaking about the actual zoo, the animals are nice and it was a fun experience.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "But speaking about the workers and the people there not so much.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "If you're foreign like us it might not be for you as the workers treat you differently.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We had such a fantastic day from start to end!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "So many animals to explore, a fantastic set up with wonderful enclosures and information.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Great viewing points for children too.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "By far the best part of our experience was the staff members.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "So many volunteers helped us see animals which were tucked away or told us things we didn\u2019t know.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Even when purchasing a few toys at the end the shop assistant asked about our day, favourite animal and then told us something we didn\u2019t know again!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Can\u2019t wait to go back!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We had a lovely day at the zoo.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We arrived just after 10 on Sunday it was reasonably busy on entry we didn't wait long  though and when inside people soon spread out so it didn't feel too busy at all.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It was a nice enough day and we enjoyed our walk around.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We headed up hill to the right first taking it all in along the way.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "You don't walk far between animals so the hill doesn't seem so daunting,  steep in bits though.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We had an ice cream/ coffee stop first and a play at play park.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Then continued up to the top of the hill where we got chips and juice for lunch.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Ice cream again on way back down.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Our 4 year old managed until around 3.30pm before needing a stroller",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "but I just popped down and hired one then (\u00a37.50 + \u00a310deposit) - it was a life saver for the last couple of hours.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Our favourite animals were sloth, porcupine,  lion,  rhino, penguin, giraffe,  zebra,  monkeys... really all of them!",
+    "animals": [
+      "sloth",
+      "porcupine",
+      "lion",
+      "rhino",
+      "penguin",
+      "giraffe",
+      "zebra",
+      "monkeys"
+    ],
+    "spans": [
+      [
+        27,
+        32
+      ],
+      [
+        34,
+        43
+      ],
+      [
+        46,
+        50
+      ],
+      [
+        53,
+        58
+      ],
+      [
+        60,
+        67
+      ],
+      [
+        69,
+        76
+      ],
+      [
+        79,
+        84
+      ],
+      [
+        87,
+        94
+      ]
+    ]
+  },
+  {
+    "review_sentence": "And the play parks are fun.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Staff are lovely.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "A fab day out.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "My wife has just been to the zoo to redeem her Christmas gift,, taking in a half day zookeeper experience.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Natalie, our experienced zookeeper, met us at just before 9am and took us both (I had already paid for my entrance to the zoo) to the starting point in the zookeeper hut.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "There, she explained all the Health & Safety and we set off to the buff cheeked Gibbons enclosure.",
+    "animals": [
+      "buff cheeked gibbons"
+    ],
+    "spans": [
+      [
+        67,
+        87
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Gibbons cleaned out and breakfast fed, we set off to see Otto in the pygmy hippo enclosure.",
+    "animals": [
+      "gibbons",
+      "pygmy hippo"
+    ],
+    "spans": [
+      [
+        0,
+        7
+      ],
+      [
+        69,
+        80
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Gillian got to feed him with a pair of tongs for safety.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "He was so cute and likes a carrot or 10!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "He even managed a poo whilst we were there \ud83d\ude02\ud83d\ude02.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Natalie had warned us this would happen.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Next stop we went to see the armadillos and sloths.",
+    "animals": [
+      "armadillos",
+      "sloths"
+    ],
+    "spans": [
+      [
+        29,
+        39
+      ],
+      [
+        44,
+        50
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Gillian got a feed and a hold of a 3 ringed armadillo.",
+    "animals": [
+      "3 ringed armadillo"
+    ],
+    "spans": [
+      [
+        35,
+        53
+      ]
+    ]
+  },
+  {
+    "review_sentence": "So cute, but huge claws on them.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Cheeky wee feed of the sloth and we were off again, to see the penguins and feed them.",
+    "animals": [
+      "sloth",
+      "penguins"
+    ],
+    "spans": [
+      [
+        23,
+        28
+      ],
+      [
+        63,
+        71
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Gillian got to go into the penguin enclosure and feed them some fish, which she absolutely loved.",
+    "animals": [
+      "penguin"
+    ],
+    "spans": [
+      [
+        27,
+        34
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Throughout the experience, Natalie fed us lots of information and she was an excellent guide.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Couldn't speak any higher of her.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Such a lovely girl",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "and she knew her stuff!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I'd strongly recommend this experience to anyone with a love of animals",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Apart from being on the side of a mountain (or it felt like it)",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "it's one of the nicest.zoos.ive been to ,it was clean a.d well presented",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "My girlfriend wanted to visit it for a long time ago.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Well in April we could make it.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "That was the best zoo experience in our life.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The animals look happy and healthy.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "So, I\u2019ve been here two times before and said I wouldn\u2019t go again.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The ticket prices are high but got a deal so worked out as \u00a37 per person (universal credit offer).This is the first time I\u2019ve enjoyed it.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Would I pay full price though, no I wouldn\u2019t.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "But I would pay the discounted price again.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Make sure to download the app!If you visit, to go to the talks even if you don't know the animal because they're fascinating to learn about.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We learnt about Warty-Pigs and Drill (a type of big Monkey)",
+    "animals": [
+      "warty-pigs",
+      "drill"
+    ],
+    "spans": [
+      [
+        16,
+        26
+      ],
+      [
+        31,
+        36
+      ]
+    ]
+  },
+  {
+    "review_sentence": "they're really interesting animals and we got to see the Drill really close.",
+    "animals": [
+      "drill"
+    ],
+    "spans": [
+      [
+        57,
+        62
+      ]
+    ]
+  },
+  {
+    "review_sentence": "One of the best Zoos I have been to, with lots of cafes with good food for when you're tired.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Overall this is a really nice zoo.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We were able to see almost all of the animals at some point although some enclosures we had to revisit.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Some enclosures and paddocks felt a bit small but most were generous.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The animals looked happy, relaxed and well looked after.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "They were a pleasure to stand and watch.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I knew Edinburgh had hills but this zoo is not mobility friendly with some excessive steep hills.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Steps could be put in half was across these paths but I appreciate this would have an effect on vehicles.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Some vans drove with care and patience however there was a lady in a white van who looked very young who was driving quickly and I almost fell moving out of the way.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We went to eat at Grasslands.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The service was great.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "A lady called Hannah saw I was struggling with the online order service and asked her supervisor to assist.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "This was sorted fast with no fuss or embarrassment.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I loved Hannah's \"positive vibes\" she's a delight and credit to the team and clearly well suited to the role.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Additionally at the sloths house a lady called Emma was able to give lots of information on the sloths and armadillo",
+    "animals": [
+      "sloths",
+      "sloths",
+      "armadillo"
+    ],
+    "spans": [
+      [
+        20,
+        26
+      ],
+      [
+        96,
+        102
+      ],
+      [
+        107,
+        116
+      ]
+    ]
+  },
+  {
+    "review_sentence": "and we were totally entertained and educated.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It's obvious the staff here are good at their jobs and the animals respond to this.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We pre booked the week before, sadly on the day the weather wasn\u2019t great , windy and rain , but we went ahead and actually enjoyed the visit , lots of animals to see and the restaurants where reasonably priced , and lots of toilets at various points , highly recommend visiting.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We took our young child to the zoo in the hopes that we could educate him about wildlife and animal conservation.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "He was particularly pleased to see the penguins and capybaras",
+    "animals": [
+      "penguins",
+      "capybaras"
+    ],
+    "spans": [
+      [
+        39,
+        47
+      ],
+      [
+        52,
+        61
+      ]
+    ]
+  },
+  {
+    "review_sentence": "so no complaints there.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "However, there is an issue that has caused us great upset.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Went to see the wallabys, they were lounging around and wouldnt stand up to hop so not much to see so right beside them, there are goats so we took the child over to see them.",
+    "animals": [
+      "wallabys"
+    ],
+    "spans": [
+      [
+        16,
+        24
+      ]
+    ]
+  },
+  {
+    "review_sentence": "We were met with the sight of the dominant male goat, repeatedly trying to force himself onto the female goat and mate with her against her will.",
+    "animals": [
+      "goat",
+      "goat"
+    ],
+    "spans": [
+      [
+        48,
+        52
+      ],
+      [
+        105,
+        109
+      ]
+    ]
+  },
+  {
+    "review_sentence": "The female goat kept trying to get away but he was persistent and repeatedly overpowered her.",
+    "animals": [
+      "goat"
+    ],
+    "spans": [
+      [
+        11,
+        15
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Other families were upset seeing this, several of us yelled at the male goat to stop but he would not.",
+    "animals": [
+      "goat"
+    ],
+    "spans": [
+      [
+        72,
+        76
+      ]
+    ]
+  },
+  {
+    "review_sentence": "We saw staff nearby and doing absolutely nothing to intervene in what was clearly a non consensual assault.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "My child and other children were getting upset, my child said to me as I led him away 'why is that goat hurting the other one?'I did not plan to have to explain to my child about such a subject after a zoo visit.",
+    "animals": [
+      "goat"
+    ],
+    "spans": [
+      [
+        99,
+        103
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Disappointed the staff did not stop it.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We had a fantastic day at Edinburgh Zoo!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It's such a well-laid-out and engaging place, and we were genuinely impressed by the variety of animals\u2014especially the pallas cats, which we\u2019d never seen before.",
+    "animals": [
+      "pallas cats"
+    ],
+    "spans": [
+      [
+        119,
+        130
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Huge highlight!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The penguins were also a joy to watch\u2014many of them were nesting and had eggs, which was such a special thing to see up close.",
+    "animals": [
+      "penguins"
+    ],
+    "spans": [
+      [
+        4,
+        12
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Having visited zoos, safaris, and wildlife parks both across the UK and abroad, we\u2019ve seen our fair share, but this place truly stands out.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Considering my husband works in animal welfare and knows his stuff, the fact that he loved it too says a lot.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The enclosures looked thoughtfully designed, and the animals all seemed well cared for.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "A brilliant experience for both animal enthusiasts and curious visitors alike!One thing to consider however, this zoo is on a very big hill - possible mobility issues.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Start from the top and work your way down.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Lovely day out, saw pretty much all the animals, staff were friendly!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "\ud83d\ude42 Spoke to volunteer and were really helpfull!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "5*",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We study at an animal based college and we came along for a trip to help with assignments.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I absolutely loved every moment of it, there is a large range of species and the staff across the zoo are lovely.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Would definitely love to visit again :)",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I had visited this zoo many years ago, when my mobility issues were not as severe, and I think that left me with a rose-tinted memory of this zoo!It is INCREDIBLY steep, and just when you think you've reached the top, it keeps going at",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "a sharper",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "incline!The staff did offer a mobility transport shuttle to the top when I arrived (walking with my cane) but they described the zoo as \"being on a hill\", when really it feels more like Everest for the disabled!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "\ud83d\ude02I declined the shuttle, thinking I could just slowly make my way up.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "MISTAKE!It's a great little zoo, with plenty of animals and interesting exhibits, just heed my warning!Wheelchairs and mobility scooters are possible to rent from the front desk, and the Zoo Map has a number to call the shuttle to the top.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "If you have mobility issues, don't be like me, USE THEM!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "\ud83d\ude02",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "You have been warned!A really disappointing day all round.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Besides the \u00a355 for a couple to get in you're then presented with the most overpriced cafe.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Three sandwiches, three mediocre coffees and a couple of kids packs.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Grand total \u00a344.00.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "plus \u00a34.00 to park which as we were to find out was a bargain!A lot of the 'houses' are closed.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The dinosaur animatronics aren't functioning plus most have been ravaged by time, with foam hanging out.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "If you're getting on a bit get a bus to the top and walk down as it's pretty steep.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "All in all for a \u00a3100 it's really taking the biscuit.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "So sad.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It was great experience travelled from Birmingham to Edinburgh Zoe with family and grandchildren, great day out experience.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Where do I begin.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Firstly easy enough to park - cost of parking",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "\u00a34- mind",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "you",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "i was there at 1000.Then had to queue at least 20 minutes to get in at a cost of \u00a329.50.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It was only after I had paid that the young lady on the till informed me that it was a very steep climb to the top.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "No offer of transportation to get to top or even asked if I could manage - needless to say I\u2019ve yet to make it to the top - were probably scared on till that I\u2019d ask for a refund as not able to manage walk to top.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Encloses- quite a few were either empty or very  need of good improvement to them.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Best updated enclosure was the sloth and armadillo enclosure as it looked brand new.",
+    "animals": [
+      "sloth",
+      "armadillo"
+    ],
+    "spans": [
+      [
+        31,
+        36
+      ],
+      [
+        41,
+        50
+      ]
+    ]
+  },
+  {
+    "review_sentence": "As for food - or lack there of - it was expensive - for a soggy ham, cheese and tomato panini and a coke \u00a39.95 for indigestion.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "On visiting Edinburgh zoo it reminds me me why I hate zoos but I keep thinking that this establishment will improve but I Live in hope.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "May I suggest that the owners of Edinburgh zoo either move this establishment to flatter ground and upgrade their facilities for the sake of the animals and members of the public.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "And also a visit to Chester zoo would give them an insight into how a zoo should be run.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Great zoo with so many different animals.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "After parking - it was quick confusing where you go to get into the park - we were members so needed to find the members entrance.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Once we located this - it was straight in.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It was a little confusing which way to go - you kinda start in the middle - so we walked down hill and did everything there but then the walk to the top of the zoo if not for the faint hearted.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It is horrendous for those with mobility, children in push chairs and elderly - there is also no provision that I could see to help with this - maybe a train and cable car would be great.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The nice thing is that you can take the whole day to get to the top and take your time going back and forth as you view all the animals.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Half way up there is a play park and picnic spot - it was a life saver - sat there for an hour to eat and chill.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Then started the hike to the top -Please do not underestimate how steep this is in places, especially pushing a pram.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "That aside - it\u2019s a wonderful day out and well worth every penny.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The staff are also super engaging",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Car park closed, no attendant on the gate to advise people where to go.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The animals looked very depressed, it was too cold for them.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "This was more of animal prison than a zoo.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Saw a lovely big monkey here.",
+    "animals": [
+      "monkey"
+    ],
+    "spans": [
+      [
+        17,
+        23
+      ]
+    ]
+  },
+  {
+    "review_sentence": "My cousin and I had a great day.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Unfortunately he died on the train home but it was a cool trip.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Went with 8 year old, haven't been since before Covid, but really enjoyed it.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The park in general is on a hill, so lots of walking but pushchairs and wheelchairs are available, the park is clean and well maintained.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We really wanted to see haggis, but apparently he's lazy and doesn't wake up till early afternoon, we went in 3 times to try and see him, but sadly only saw him asleep.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We did find that lots of the animals are sleeping early, we arrived about 11, and saw more animals up and active in the afternoon.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The chimps, big cats and giraffes were all worth the effort to see.",
+    "animals": [
+      "chimps",
+      "big cats",
+      "giraffes"
+    ],
+    "spans": [
+      [
+        4,
+        10
+      ],
+      [
+        12,
+        20
+      ],
+      [
+        25,
+        33
+      ]
+    ]
+  },
+  {
+    "review_sentence": "The park has a few play parks of good value, a large one by the penguins and another near the chimps.",
+    "animals": [
+      "penguins",
+      "chimps"
+    ],
+    "spans": [
+      [
+        64,
+        72
+      ],
+      [
+        94,
+        100
+      ]
+    ]
+  },
+  {
+    "review_sentence": "We did want to see the penguin parade, online seemed to suggest it was still a thing, but couldn't work out if it was on.",
+    "animals": [
+      "penguin"
+    ],
+    "spans": [
+      [
+        23,
+        30
+      ]
+    ]
+  },
+  {
+    "review_sentence": "The QR code scanner didn't really answer the question, so we hung about hoping it was on, but sadly not.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "A nice bit sign would have been good!Meal wise we at at the grasslands, limited choices for my dairy free son.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "But portions were bit.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "\u00a322 for a hotdog and chips, a coffee and a kids pizza and chips for him.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It does end up expensive, but it's a rare trip and I can't imagine it's cheap to keep a family of rhino's.",
+    "animals": [
+      "rhino"
+    ],
+    "spans": [
+      [
+        98,
+        103
+      ]
+    ]
+  },
+  {
+    "review_sentence": "When I was at Edinburgh Zoo today, we could at the Grasslands Restaurant.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "My  husband had a nourse bleed and the manager Rosa looked after him.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Got him a fresh  coffee.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "She was caring and understanding.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Just shose you that there is still people out there that are very, very good at their job ,and very caring.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Thank you so much Rose.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "And all the staff10 out of 10.xx",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "An absolute waste of time and money.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Spent two and a half hours traipsing around to see a grand total of 4 different animals.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Ridiculous.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Desperately wanted to see a capybara (have been recovering from illness which almost killed me so this was my whole reason for travelling for 4 hours.)",
+    "animals": [
+      "capybara"
+    ],
+    "spans": [
+      [
+        28,
+        36
+      ]
+    ]
+  },
+  {
+    "review_sentence": "the capys were locked in a tiny room out of sight.",
+    "animals": [
+      "capys"
+    ],
+    "spans": [
+      [
+        4,
+        9
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Appalling waste!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I understand the weather is cold, but If a zoo can\u2019t work as a zoo, close it until better weather instead on scamming people out of their hard earned money!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We visited today and had a great time!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Last time we were at the zoo was around 6-8 months ago, so it had been a while.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We saw loads of animals and Haggis was a highlight!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We had lunch in the Grasslands restaurant (again quite good), and bought some Haggis merch.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Its not an inexpensive day out",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "but we had a lovely day.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Staff and volunteers always friendly!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I visited about two years ago and from what I remember, I had a great day out.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Decided to revisit with my mum as we were staying in Edinburgh.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We got the No 26 bus from Princes Street and got off opposite the zoo.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Received a warm welcome upon arrival.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Staff were friendly.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Cost almost \u00a360 for both of us, which seemed rather expensive.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The zoo is situated on a hill so there are a lot steep slopes.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I can imagine it would be challenging pushing someone in a wheelchair or if someone is physically challenged or has health issues.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We went into The Gannet for lunch.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Although the coffee was nice, the food and drinks were pricey.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The Grasslands Restaurant and the Penguin Cafe were closed which was understandable as it's out of season.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We were disappointed as many of the enclosures were empty or closed for refurbishment.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I'm aware work needs to be done to ensure that the zoo is maintained but charging \u00a329 for an adult ticket is extortionate.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The ticket price should be reduced in low season or if there is work carried out and some areas are closed.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "My mum and I felt like we were ripped off.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Genuinely surprised how enjoyable our visit was.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Took my 8 year old on a father son trip and we both had a really great time.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Better than I had expected!Overall there were loads of interesting animals, almost all set up in a way that you could get a good or exciting view of them.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We both were stopped in our tracks seeing the lions, tigers, zebras and giraffes in particular.",
+    "animals": [
+      "lions",
+      "tigers",
+      "zebras",
+      "giraffes"
+    ],
+    "spans": [
+      [
+        46,
+        51
+      ],
+      [
+        53,
+        59
+      ],
+      [
+        61,
+        67
+      ],
+      [
+        72,
+        80
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Even where animals were sleeping you could often still get a good view of them through various observation windows.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The one exception was Haggis, the celebrity baby pigmy hippo.",
+    "animals": [
+      "pigmy hippo"
+    ],
+    "spans": [
+      [
+        49,
+        60
+      ]
+    ]
+  },
+  {
+    "review_sentence": "In the end we had to visit the enclosure 3x to see Haggis live, with our 1st 2 stop offs being a little disappointing.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I can\u2019t help but feel a viewing window or video screen with live webcam of the sleeping area would have helped give the hippos the peace they needed whilst also giving visitors a little something.",
+    "animals": [
+      "hippos"
+    ],
+    "spans": [
+      [
+        120,
+        126
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Food; We had lunch at the Grasslands restaurant.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "For kids it was slightly \u201cbeige\u201d but was not outrageously priced for a tourist attraction, service was quick, the restaurant clean and my soup very nice.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "When the food arrived I didn\u2019t begrudge the spend but equally can understand why some would bring their own picnics.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The zookeeper talks were quite fun and informative although it was a shame there were only 2 throughout the day, we would have happily visited more!One Warning: if you struggle with mobility maybe this isn\u2019t the zoo for you.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Some paths are steep (although to be fair  they\u2019re marked as such on the free map)  and the whole zoo is situated on a hill.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "That said, we saw plenty of folks happily pushing prams around so don\u2019t be put off just because you have little ones.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Tip: take at least 2 of the maps as you enter the zoo\u2026.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Whilst the new maps may now be easier to recycle,  your average child navigating with one will have accidentally ripped it to shreds within the first 90mins.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Fairly priced as it is a big zoo.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "A few animals were not available to see so this was disappointing but it was bitterly cold and still some snow on the ground.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Very big zoo and wasn't too busy,definitely gives you a good work out .",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Think it would be better visiting when bit warmer.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Giraffe talk was also good.",
+    "animals": [
+      "giraffe"
+    ],
+    "spans": [
+      [
+        0,
+        7
+      ]
+    ]
+  },
+  {
+    "review_sentence": "All enclosure seemed to be big enough and animals seemed happy.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Would definitely visit again in the warmer weather.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We've been non-members for only about three years in the last quarter century, so maybe I'm biased.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Makes for a great day out, even with 22 year-old kids :-)However, can't recommend the restaurant.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "First time I've paid over \u00a340 for a meal for three including a pizza with cheese that wasn't melted and a bowl of soup for my wife.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "My mixed bean loaded fries were good, though they were skin-on skinny fries, not wedges as advertised.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "All I can say is we all thought the coffees were good.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Enjoyed seeing the penguins out of their enclosure - and lions and tigers inside their enclosure!",
+    "animals": [
+      "penguins",
+      "lions",
+      "tigers"
+    ],
+    "spans": [
+      [
+        19,
+        27
+      ],
+      [
+        57,
+        62
+      ],
+      [
+        67,
+        73
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Not only does this zoo host an amazing collection of animals and displays, you get a decent workout walking all around.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "So many highlights, right from the meerkats who greet you when you arrive to the artworks that dot the park.",
+    "animals": [
+      "meerkats"
+    ],
+    "spans": [
+      [
+        35,
+        43
+      ]
+    ]
+  },
+  {
+    "review_sentence": "We were busy tracking our way around but there are heaps of playgrounds for families to break their walks.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The zoo was underwhelming.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It wasn't very exciting.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "There wasn't a lot to do except follow the trail and walk around.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "There were no guides and staff were not very helpful or accommodating.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The zoo at Flamingo Land is much better, in my opinion.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "And more value for money.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I had the most amazing day.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We went to the tiger talk at the beginning and we spoke with keep Maurice who was great, informative and lovely to talk to.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We later saw him at the waddle walk in the afternoon.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "DO NOT MISS THIS.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It was the best thing I\u2019ve ever witness at a zoo\u2026 I\u2019ve worked at Longleat and I was very impressed with this idea.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It was enjoyable, funny, and most importantly save for the penguins.",
+    "animals": [
+      "penguins"
+    ],
+    "spans": [
+      [
+        59,
+        67
+      ]
+    ]
+  },
+  {
+    "review_sentence": "We got lots of info about the penguins waddling by.",
+    "animals": [
+      "penguins"
+    ],
+    "spans": [
+      [
+        30,
+        38
+      ]
+    ]
+  },
+  {
+    "review_sentence": "It was fantastic!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We laughed when we found out it was in a hill but that didn\u2019t matter to us.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I believe they have support for those that need it.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It was great to hear about the conservation and any keeper/volunteer we spoke to were very passionate!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We loved every mother.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The giraffe house and chimp house were very impressive.",
+    "animals": [
+      "giraffe house",
+      "chimp"
+    ],
+    "spans": [
+      [
+        4,
+        17
+      ],
+      [
+        22,
+        27
+      ]
+    ]
+  },
+  {
+    "review_sentence": "We had a picnic that day so not sure what care was like.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Gift shop was lovely and reasonable pricing!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I got a little teddy penguin and magnet for under \u00a310.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Ticket prices were fine, it all goes towards the lovely animal so we appreciate this a lot.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The map was great and we planned our visit well.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Some enclosures were empty but not too many.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Some animals were not to be seen, but that was to be expected as they are not their to be on display!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We loved every moment and I\u2019m so sad that I live far down south because I would definitely apply to be keeper or be a member.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "There was a lovely atmosphere and the staff were very lovely to talk to which just made it for us.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Thank you Maurice for your talks.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I will return one day!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I will be looking out in the penguin cam.",
+    "animals": [
+      "penguin"
+    ],
+    "spans": [
+      [
+        29,
+        36
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Visited on a Saturday in December.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It wasn\u2019t as busy as we anticipated which was great.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Parking is \u00a34 per car for the entire day but free for members.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Only problem with it being off peak season was that a lot of the shops/ cafes were shut which was a shame.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We really enjoyed the penguin waddle which takes place at 14:15 at the weekends and we managed to see Haggis the new hippo.",
+    "animals": [
+      "penguin",
+      "hippo"
+    ],
+    "spans": [
+      [
+        22,
+        29
+      ],
+      [
+        117,
+        122
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Only thing that did catch us off guard was how much of a slope the zoo is on.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It\u2019s very steep and I can imagine would be very inaccessible for those who struggle to mobilise.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The entire zoo is outside so luckily it didn\u2019t rain.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We really enjoyed ourselves.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Very disappointed to be honest so many empty enclosures we travelled a long way as we had heard it was the best zoo well we certainly didn't think so it's not a cheap day either.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Nice place to visit also in the winter.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I especially liked the lava, and I was lucky to see her move around.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The animal assistant was good at telling us about the beautiful animal.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "There were also small, cute armadilloes running around on the ground.",
+    "animals": [
+      "armadilloes"
+    ],
+    "spans": [
+      [
+        28,
+        39
+      ]
+    ]
+  },
+  {
+    "review_sentence": "The tiger walked restlessly back and forth in front of the glass, I got a little hurt of it, it seemed uncomfortable.",
+    "animals": [
+      "tiger"
+    ],
+    "spans": [
+      [
+        4,
+        9
+      ]
+    ]
+  },
+  {
+    "review_sentence": "The goats were beautiful, the penguins and suricates were lovely and smart, and some of the penguins and the little monkeys were curious about us, and looked to thrive fine.",
+    "animals": [
+      "goats",
+      "penguins",
+      "suricates",
+      "penguins",
+      "monkeys"
+    ],
+    "spans": [
+      [
+        4,
+        9
+      ],
+      [
+        30,
+        38
+      ],
+      [
+        43,
+        52
+      ],
+      [
+        92,
+        100
+      ],
+      [
+        116,
+        123
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Nice place to visit, there are a lot upstairs, so can be okay to know for those who are poor to bones.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I didn\u2019t like having a 10% donation automatically added to the already expensive ticket price making it almost \u00a330 per person.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "This seems expensive compared to other zoos.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It is winter so perhaps it it better in summer but the whole place looks tired and unkempt.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It was cold so perhaps some of the animals were inside",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "but we didn\u2019t actually see many animals.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We saw one lonely rhino, one sad looking red panda and one sleeping tiger.",
+    "animals": [
+      "lonely",
+      "rhino",
+      "red panda",
+      "tiger"
+    ],
+    "spans": [
+      [
+        11,
+        17
+      ],
+      [
+        18,
+        23
+      ],
+      [
+        41,
+        50
+      ],
+      [
+        68,
+        73
+      ]
+    ]
+  },
+  {
+    "review_sentence": "What we saw more of was penguins, flamingos, giraffes and meerkats.",
+    "animals": [
+      "penguins",
+      "flamingos",
+      "giraffes",
+      "meerkats"
+    ],
+    "spans": [
+      [
+        24,
+        32
+      ],
+      [
+        34,
+        43
+      ],
+      [
+        45,
+        53
+      ],
+      [
+        58,
+        66
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Also three zebra and two anteaters.",
+    "animals": [
+      "zebra",
+      "anteaters"
+    ],
+    "spans": [
+      [
+        11,
+        16
+      ],
+      [
+        25,
+        34
+      ]
+    ]
+  },
+  {
+    "review_sentence": "It seems that many of the enclosures are empty.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Signage is poor- no sign to the top of the hill for example - and had we not followed other people up there we would not have got to the giraffes.",
+    "animals": [
+      "giraffes"
+    ],
+    "spans": [
+      [
+        137,
+        145
+      ]
+    ]
+  },
+  {
+    "review_sentence": "A properly marked trail so you get to see everything and don\u2019t go down dead ends would be so much better.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Thank goodness we had a paper map otherwise it would have been hopeless.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The view from the top is lovely.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The sun was shining and it was picturesque.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Some of the enclosures look as though they have had a lot of money spent on them like the penguins and the giraffes.",
+    "animals": [
+      "penguins",
+      "giraffes"
+    ],
+    "spans": [
+      [
+        90,
+        98
+      ],
+      [
+        107,
+        115
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Others don\u2019t.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "A lot of the pools were empty.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The rhino just had a lot of mud and he was pacing over the empty concrete pool.",
+    "animals": [
+      "rhino"
+    ],
+    "spans": [
+      [
+        4,
+        9
+      ]
+    ]
+  },
+  {
+    "review_sentence": "I have seen much better zoos around the world and this one left me feeling a bit sad for the animals.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Edinburgh Zoo is always a great day out, even in freezing cold weather!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I always recommend Edinburgh zoo to anyone coming to Edinburgh or even a local friend who\u2019s a bit bored.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Ever time we visit we start by walked up the hill and herring the hard part out of the way first, which I recommend.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Edinburgh zoo has so many animals too see, and we even saw wee haggis!The reasons why I couldn\u2019t give our day out a five star are as follows:The signage wasn\u2019t great and it\u2019s easy to miss parts out.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Also in some areas the signs were either faded off or had withered away partially and weren\u2019t clear.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We had lunch at the grasslands caf\u00e9 and the food was lovely, the only problem was that the staff kept getting confused and couldn\u2019t figure out things like table numbers and brought our food round several other tables before us.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Also there was quite a queue for tables and I think it might have been good if you could reserve tables, especially for people with accessibility needs.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Another thing that would have improved our visit would have been if there was maybe some adults only areas (just one small corner or something) as it can get very overstimulating with screaming kids everywhere!!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "A good morning spent walking around the zoo, we are members of Chester zoo so our visit was free of entry charges which was a bonus.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The zoo is on many levels so a few hills steeper than others, but on the whole accessible to most people.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We did see people on mobility scooters but unsure if they rent these out here!The bus service is right outside the doors but they also had a car parkOn the whole a decent few hours spent",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Great zoo.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Animals looked well cared for.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Very hilly so be prepared for that.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Penguin Waddle was the best but for us!",
+    "animals": [
+      "penguin"
+    ],
+    "spans": [
+      [
+        0,
+        7
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Food was good there in the restaurant too.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The volunteer by the penguins was very knowledgeable and I was delighted to see Nils Olav upon visiting.",
+    "animals": [
+      "penguins"
+    ],
+    "spans": [
+      [
+        21,
+        29
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Good selection of species on display, although I think the Wee Beasties section could do with some more attention.",
+    "animals": [
+      "beasties"
+    ],
+    "spans": [
+      [
+        63,
+        71
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Loved our visit.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "My boyfriend loves zoos so he really enjoyed.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Be warned it is very hilly so definitely use the map and plan your route to avoid unnecessary hill climbs.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Probably takes about 4-5h to enjoy the experience without feeling rushed.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The lego animals are great.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Great trip to the zoo.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We saw lots of animals and some like the penguins and zebra were very active which was fun.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Ate looking at the penguins good choices but seating was very full inside.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Lovely friendly and informative staff.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "All in all a very enjoyable day.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "What a great zoo.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We were there 5 hours and just about managed to see it all.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Best penguin area that I have ever seen.",
+    "animals": [
+      "penguin"
+    ],
+    "spans": [
+      [
+        5,
+        12
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Zoo is on a steep hill and can be hard going in places, but we just took it slowly.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "They do hire scooters for visitors with mobility issues - great",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "ideaWill definitely return again if in Edinburgh",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "A great day at Edinburgh zoo.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "A very well kept zoo with lots of animals.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Good facilities & food.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The staff & volunteers absolutely made our trip.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "They were all so friendly, approachable & knowledgeable.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Would definitely recommend a visit.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The zoo is still such a calm and lovely spot for families and friends alike.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Loved the exhibits in the magic forest and penguin rock!",
+    "animals": [
+      "penguin"
+    ],
+    "spans": [
+      [
+        43,
+        50
+      ]
+    ]
+  },
+  {
+    "review_sentence": "We were shown a lot of things by Sophie who had what felt like a bottomless well of information!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "She was so lovely and helpful about good times to visit some of the enclosures, got to see a very handsome Rhino thanks to her suggestion!Would love to be able to catch some of the animals that were a bit more reclusive this visit next time.",
+    "animals": [
+      "rhino"
+    ],
+    "spans": [
+      [
+        107,
+        112
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Will definitely be back.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "A warm sunny October day, 2 adults and 3 teens, loved the penguins and giraffes and monkeys, didn't see any big cats...",
+    "animals": [
+      "penguins",
+      "giraffes",
+      "monkeys",
+      "big cats"
+    ],
+    "spans": [
+      [
+        58,
+        66
+      ],
+      [
+        71,
+        79
+      ],
+      [
+        84,
+        91
+      ],
+      [
+        108,
+        116
+      ]
+    ]
+  },
+  {
+    "review_sentence": "couldn't",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "find them, no sign of the  pallas cats, lots of uphill walking, was hoping for a lemur walkway to get close but no.",
+    "animals": [
+      "pallas cats",
+      "lemur"
+    ],
+    "spans": [
+      [
+        27,
+        38
+      ],
+      [
+        81,
+        86
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Food/drink bit expensive as is usual at attractions like this, bit disappointed if im honest, probably won't go again.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Amazing views from the top of this zoo where the giraffes are.",
+    "animals": [
+      "giraffes"
+    ],
+    "spans": [
+      [
+        49,
+        57
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Very hilly but worth the trip.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "A good selection of animals.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We took a pack lunch and there were a lot of places to sit and eat it including benches.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Visited today as a couple away for the weekend ,We had a great day loved the giraffes    and penguins the most ,Autumn has set in so grounds looking a bit sad now , animals look in til top condition ,Toilets really need some TLC the shop they are shocking ,Anyone  with any walking difficulties beware this place has very steep walks and climbs up to see the big animalsAll in all we enjoyed our day thank you",
+    "animals": [
+      "giraffes",
+      "penguins"
+    ],
+    "spans": [
+      [
+        77,
+        85
+      ],
+      [
+        93,
+        101
+      ]
+    ]
+  },
+  {
+    "review_sentence": "We are RZSS members and often visit Edinburgh Zoo.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We were pleased with this morning's chance to get very close to some unusual animals in the Wicked Encounters space in the Budongo Trail building.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We're sure it takes a lot of resources to plan and staff the site but it was very popular (lots of big eyes on children).",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We hope Wicked Encounters will continue beyond the autumn.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Disappointed that there were no snakes ,elephants , crocodiles and a lot of empty spaces.",
+    "animals": [
+      "snakes",
+      "elephants",
+      "crocodiles"
+    ],
+    "spans": [
+      [
+        32,
+        38
+      ],
+      [
+        40,
+        49
+      ],
+      [
+        52,
+        62
+      ]
+    ]
+  },
+  {
+    "review_sentence": "The plus side was the tigers ,lion , penguins, giraffes .",
+    "animals": [
+      "tigers",
+      "lion",
+      "penguins",
+      "giraffes"
+    ],
+    "spans": [
+      [
+        22,
+        28
+      ],
+      [
+        30,
+        34
+      ],
+      [
+        37,
+        45
+      ],
+      [
+        47,
+        55
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Last visited in the 1960s but needs a lot of work now.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "A very nice zoo to get to comfortably by bus..animals that enjoy large well-kept spaces.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Very nice couple of tigers and very nice penguin parade",
+    "animals": [
+      "tigers",
+      "penguin"
+    ],
+    "spans": [
+      [
+        20,
+        26
+      ],
+      [
+        41,
+        48
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Very nice day.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The day was cloudy and cold, but I enjoyed it.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Very large enclosures for a few animals, I found the thing very positive, so much space for a few specimens.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It was nice to get into the kangaroo enclosure.",
+    "animals": [
+      "kangaroo"
+    ],
+    "spans": [
+      [
+        28,
+        36
+      ]
+    ]
+  },
+  {
+    "review_sentence": "The map is essential because the zoo is really big.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Visit Recommendation, and Recommendation to be there by 2pm in time for the Penguin Parade, which is great fun.",
+    "animals": [
+      "penguin"
+    ],
+    "spans": [
+      [
+        76,
+        83
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Avoid at all costs is our review.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Waste of time and money and a day of our holiday which could have been spent better.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I am realistic not to expect the animals to be standing in the centre of the cage or open space but it really was spot the animal competition!More empty cages and open closure's than full.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "A bad advert for Edinburgh and Scotland.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "If you do go take your own food,two hot drinks and two sandwiches for \u00a318!!!!What a rip off.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Take our advice,go to Chester Zoo, this is a sorry state of a zoo.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "At least the bus was easy to get back to Edinburgh city centre.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Awful, Animal Magic this is not.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Excellent day out, staff were extremely helpful.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I have a mobility scooter and there was a bus for people with mobility issues to get on to take them to the top of the zoo as the hill is very steep.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I recommend getting one of the zoos own mobility scooters as my standard scooter struggled on the hills as a few steep ones.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "You can also ring the zoo staff if your own scooter runs of batterie and they can bring you one of there\u2019s.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Apart from the Pygmy hippo enclosure which I unfortunately got my scooter stuck in as the floor was made of wood chip, every where else was accessible.",
+    "animals": [
+      "pygmy hippo"
+    ],
+    "spans": [
+      [
+        15,
+        26
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Throughly enjoyed my day and all the animals looked very happy and healthy.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "A great day out for a young family with a toddler (18mths)!Okay, so this is a very hilly zoo!",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "so make sure when you plan your day you\u2019re going up to the top seeing everything you need to see and then coming down.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "You can see on the map where the hills are, so just make sure you keep this in mind.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Giraffes for example at the very top of the hill which means you get amazing views from the top but just make sure you\u2019re not continuously going up and down ideally plan to go up the hill before lunch so you have plenty of time to see everything you need to before coming down for food.",
+    "animals": [
+      "giraffes"
+    ],
+    "spans": [
+      [
+        0,
+        8
+      ]
+    ]
+  },
+  {
+    "review_sentence": "The zoo itself is a really great zoo, loads of amazing animals to see and really good enclosures.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "They have a really great area for the chimpanzees, with really great viewing platforms where you can watch them playing and having fun.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The exhibition is also really great for viewing the giraffes and seeing them up close  and safely.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I think the zoo did a really good job of making a lot of the viewing areas accessible to smaller children, so I didn\u2019t often have to lift my toddler up to see.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The penguin exhibition was a great example of this when my toddler actually ended up standing right next to a penguin through the glass , which she loved.",
+    "animals": [
+      "penguin",
+      "penguin"
+    ],
+    "spans": [
+      [
+        4,
+        11
+      ],
+      [
+        110,
+        117
+      ]
+    ]
+  },
+  {
+    "review_sentence": "The food at the fish bar was understandably quite pricey, but you actually got a great portion size for the money and the quality was very good.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Despite going as a cold time of year it was still extremely easy to see all the animals.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Not a lot of them were outside but the indoor closures were well maintained and it was still easy to see them.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It did rain at points but there was a lot of errors undercover, especially the chimpanzee area which had a hole inside a bit that was completely completely undercover and nice and warm.",
+    "animals": [
+      "chimpan"
+    ],
+    "spans": [
+      [
+        79,
+        86
+      ]
+    ]
+  },
+  {
+    "review_sentence": "Arrived just after lunchtime (Sat 7th Sept)  and most of the places selling food were closedHad popped into the ice cream kiosk at the Penguin House and said we would be back after grabbing a coffee from the cafe next door.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "When we returned a few minutes later is was closed.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Staff could have said at the time they were closing at a certain time as we clearly stated we would be back so the children were (and the adults) were very disappointed and hungryBy the time we reached the top of the hill the kids wanted to go home and get something to eatSeeing most animals as expected but felt it fell a bit short and the experience was marred by the poor customer service although conversely the welcome at reception was top notch",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Brilliant day out with all the family.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I seem to remember there being a wee train in the past that took you up the hill (maybe I am imagining) as our youngest (4) struggled with the walking round and up hill so would have been good.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Animals all looked very well cared for: we loved the flamingoes and the anteater!",
+    "animals": [
+      "flamingoes",
+      "anteater"
+    ],
+    "spans": [
+      [
+        53,
+        63
+      ],
+      [
+        72,
+        80
+      ]
+    ]
+  },
+  {
+    "review_sentence": "If you see everything it really does take all day so would say arrive early.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "We got the bus there easily straight from ingliston.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "As a local mum with a toddler and baby on the way, I was looking for something fun to do whilst off on maternity leave.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "So far I would highly recommend the annual adult membership, it is \u00a36.40 a month.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "Kids under 3 are free! :-)",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "It gives you free parking and money off on food & drink.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "I can visit as many times as I like for a year.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The membership also gives your guests money off the admission if they are not members which I haven't used yet so not sure of the price.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The membership allows you access from a gate at the top of the carpark also to save waiting in any queues in the main entrance area.",
+    "animals": [],
+    "spans": []
+  },
+  {
+    "review_sentence": "The zoo is set on a hill side which can be hard whilst pregnant and pushing a buggy.",
+    "animals": [],
+    "spans": []
+  }
+]
