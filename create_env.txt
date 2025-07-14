@@ -1,0 +1,13 @@
+# Bash commands to create the environment needed
+
+# Create the environment & make it accessible from jupyter:
+# cd workshop/
+# python -m venv sutton_venv
+# source sutton_venv/bin/activate
+# pip install ipykernel
+# python -m ipykernel install --user
+# pip install pandas matplotlib transformers datasets spacy seqeval torch rapidfuzz 
+# python -m spacy download en_core_web_sm
+
+# In VSCODE:
+# Select kernel -> download the recommended extensions -> select kernel -> Python Environment -> sutton_venv
