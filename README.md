@@ -30,8 +30,8 @@ The notebook is structured to be beginner-friendly, with code and explanations p
 
 Clone the repo:
  ```bash
-git clone https://github.com/<your-username>/sutton_workshop.git
-cd sutton_workshop
+git clone https://github.com/nuriafari/NLP_workshop_zoo_reviews.git
+cd NLP_workshop_zoo_reviews
 ```
 
 Install dependencies
@@ -39,8 +39,9 @@ Install dependencies
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+python -m ipykernel install --user
 ```
-Run the Jupyter notebook:
+Run the workshop Jupyter notebook:
 ```bash
 jupyter notebook workshop.ipynb
 ```
